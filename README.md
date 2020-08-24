@@ -5,11 +5,17 @@ This project phase below is the problem statement for this minor project.
 gender : Gender of the student 
 
 Race/ethnicity : Race of the Student As Group A/B/C 
+
 Parental level of education : What is the education Qualification of Students Parent 
+
 Lunch : Whether lunch is Standard type/Free lunch or Some discounted lunch 
+
 Test preparation course : Whether Student has Taken or not and Completed 
+
 Math score : Scores in Maths 
+
 Reading score : Scores in Reading 
+
 Writing score : Scores in Writing
 
 
